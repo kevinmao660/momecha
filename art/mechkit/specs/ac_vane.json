@@ -1,0 +1,108 @@
+{
+ "name": "Vane (medium biped)",
+ "yaw": -28,
+ "W": 130,
+ "H": 124,
+ "ox": 64,
+ "scale": 1.3569999999999998,
+ "lift": 0.1,
+ "wear": 0,
+ "ramps": {
+  "A": "steel",
+  "J": "gunframe",
+  "F": "gundark",
+  "W": "gunframe",
+  "N": "navy",
+  "T": "gold"
+ },
+ "eye": [
+  "#8a1020",
+  "#ff4f5e"
+ ],
+ "light": [
+  "#1a89e7",
+  "#53b6f5"
+ ],
+ "L": [
+  -0.5,
+  0.75,
+  0.45
+ ],
+ "ac": {
+  "legs": "mid",
+  "core": "layer",
+  "head": "hawk",
+  "arms": "kite",
+  "back": "pylons",
+  "weapon": "rifle"
+ },
+ "pose": {
+  "hipY": 31,
+  "hipW": 6.5,
+  "thigh": 14,
+  "shin": 22,
+  "ankH": 6,
+  "ankBack": 2,
+  "lean": 5,
+  "twist": 8,
+  "roll": -2,
+  "near": {
+   "ball": [
+    -12,
+    1.8,
+    5
+   ],
+   "footYaw": -12,
+   "bend": [
+    -0.2,
+    0,
+    1
+   ]
+  },
+  "far": {
+   "ball": [
+    12.5,
+    1.8,
+    -5
+   ],
+   "footYaw": 14,
+   "bend": [
+    0.2,
+    0,
+    1
+   ]
+  },
+  "armN": {
+   "elbow": [
+    -2.5,
+    -8,
+    1
+   ],
+   "hand": [
+    -3,
+    -13,
+    7
+   ],
+   "aim": [
+    -0.12,
+    -0.7,
+    1
+   ],
+   "weapon": true
+  },
+  "armF": {
+   "elbow": [
+    3.5,
+    -8,
+    -1
+   ],
+   "hand": [
+    3,
+    -14,
+    2
+   ]
+  }
+ },
+ "headDrop": 0.4,
+ "headScale": 1.4
+}

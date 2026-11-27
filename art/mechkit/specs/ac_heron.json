@@ -1,0 +1,94 @@
+{
+ "name": "Heron (reverse joint)",
+ "yaw": -35,
+ "W": 130,
+ "H": 124,
+ "ox": 64,
+ "scale": 1.3569999999999998,
+ "lift": 0.1,
+ "wear": 0,
+ "ramps": {
+  "A": "cream",
+  "J": "gunframe",
+  "F": "gundark",
+  "W": "gunframe",
+  "N": "navy",
+  "T": "crimson"
+ },
+ "eye": [
+  "#1a89e7",
+  "#53b6f5"
+ ],
+ "light": [
+  "#1a89e7",
+  "#53b6f5"
+ ],
+ "L": [
+  -0.5,
+  0.75,
+  0.45
+ ],
+ "ac": {
+  "legs": "rj",
+  "core": "layer",
+  "head": "raptor",
+  "arms": "kite",
+  "back": "pylons",
+  "weapon": "rifle"
+ },
+ "pose": {
+  "hipY": 27,
+  "hipW": 6.5,
+  "lean": 5,
+  "twist": 10,
+  "roll": -2,
+  "near": {
+   "ball": [
+    -12,
+    1.2,
+    5
+   ],
+   "footYaw": -10
+  },
+  "far": {
+   "ball": [
+    12,
+    1.2,
+    -5
+   ],
+   "footYaw": 12
+  },
+  "armN": {
+   "elbow": [
+    -2.5,
+    -8,
+    1
+   ],
+   "hand": [
+    -3,
+    -13,
+    7
+   ],
+   "aim": [
+    -0.12,
+    -0.7,
+    1
+   ],
+   "weapon": true
+  },
+  "armF": {
+   "elbow": [
+    4,
+    -7,
+    -1
+   ],
+   "hand": [
+    3,
+    -13,
+    2
+   ]
+  }
+ },
+ "headDrop": 0.4,
+ "headScale": 1.4
+}

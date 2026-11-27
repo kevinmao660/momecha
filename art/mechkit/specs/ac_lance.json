@@ -1,0 +1,108 @@
+{
+ "name": "Lance (medium biped, blade)",
+ "yaw": -24,
+ "W": 130,
+ "H": 124,
+ "ox": 64,
+ "scale": 1.3569999999999998,
+ "lift": 0.06,
+ "wear": 0,
+ "ramps": {
+  "A": "gunmetal",
+  "J": "gunframe",
+  "F": "gundark",
+  "W": "gunframe",
+  "N": "navy",
+  "T": "gold"
+ },
+ "eye": [
+  "#8a1020",
+  "#ff4f5e"
+ ],
+ "light": [
+  "#1a89e7",
+  "#53b6f5"
+ ],
+ "L": [
+  -0.5,
+  0.75,
+  0.45
+ ],
+ "ac": {
+  "legs": "mid",
+  "core": "layer",
+  "head": "raptor",
+  "arms": "kite",
+  "back": "pods",
+  "weapon": "blade"
+ },
+ "pose": {
+  "hipY": 26,
+  "hipW": 6.5,
+  "thigh": 17,
+  "shin": 19,
+  "ankH": 6,
+  "ankBack": 1.5,
+  "lean": 5,
+  "twist": -10,
+  "roll": 2,
+  "near": {
+   "ball": [
+    -11.5,
+    1.8,
+    5
+   ],
+   "footYaw": -10,
+   "bend": [
+    -0.15,
+    0,
+    1
+   ]
+  },
+  "far": {
+   "ball": [
+    12,
+    1.8,
+    -5
+   ],
+   "footYaw": 16,
+   "bend": [
+    0.15,
+    0,
+    1
+   ]
+  },
+  "armN": {
+   "elbow": [
+    -3,
+    -8,
+    -1
+   ],
+   "hand": [
+    -5,
+    -13,
+    3
+   ],
+   "aim": [
+    -0.6,
+    -0.6,
+    0.5
+   ],
+   "weapon": true
+  },
+  "armF": {
+   "elbow": [
+    3,
+    -7,
+    3
+   ],
+   "hand": [
+    1.5,
+    -12,
+    7
+   ]
+  }
+ },
+ "headDrop": 0.4,
+ "headScale": 1.45
+}

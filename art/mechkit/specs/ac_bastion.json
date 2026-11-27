@@ -1,0 +1,108 @@
+{
+ "name": "Bastion (heavy biped)",
+ "yaw": -30,
+ "W": 130,
+ "H": 124,
+ "ox": 64,
+ "scale": 1.2389999999999999,
+ "lift": 0.08,
+ "wear": 0,
+ "ramps": {
+  "A": "olive",
+  "J": "gunframe",
+  "F": "gundark",
+  "W": "gunframe",
+  "N": "navy",
+  "T": "gold"
+ },
+ "eye": [
+  "#a46007",
+  "#f89a20"
+ ],
+ "light": [
+  "#a46007",
+  "#f89a20"
+ ],
+ "L": [
+  -0.5,
+  0.75,
+  0.45
+ ],
+ "ac": {
+  "legs": "heavy",
+  "core": "heavy",
+  "head": "hawk",
+  "arms": "heavy",
+  "back": "pods",
+  "weapon": "cannon"
+ },
+ "pose": {
+  "hipY": 27,
+  "hipW": 7.5,
+  "thigh": 16,
+  "shin": 17,
+  "ankH": 6,
+  "ankBack": 1,
+  "lean": 5,
+  "twist": 6,
+  "roll": -3,
+  "near": {
+   "ball": [
+    -12,
+    0.6,
+    5
+   ],
+   "footYaw": -8,
+   "bend": [
+    -0.1,
+    0,
+    1
+   ]
+  },
+  "far": {
+   "ball": [
+    12.5,
+    0.6,
+    -5
+   ],
+   "footYaw": 10,
+   "bend": [
+    0.1,
+    0,
+    1
+   ]
+  },
+  "armN": {
+   "elbow": [
+    -3,
+    -8,
+    1
+   ],
+   "hand": [
+    -3.5,
+    -12,
+    6
+   ],
+   "aim": [
+    -0.08,
+    -0.55,
+    1
+   ],
+   "weapon": true
+  },
+  "armF": {
+   "elbow": [
+    4,
+    -8,
+    -1
+   ],
+   "hand": [
+    3.5,
+    -14,
+    1
+   ]
+  }
+ },
+ "headDrop": 0.4,
+ "headScale": 1.55
+}
